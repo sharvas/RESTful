@@ -1,0 +1,12 @@
+eslint - to check for mistakes
+nodemon - to rerun the files after modifications
+express - web and mobile app framework
+
+##commands:
+npm install express
+node app.js
+npm i eslint -D // D for development
+npm run lint -- --init // after -- commands are passed to service
+npm install nodemon
+npm start
+
