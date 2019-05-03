@@ -2,18 +2,19 @@ eslint - to check for mistakes
 nodemon - to rerun the files after modifications
 express - web and mobile app framework
 
-##commands:
-npm install express
+## Commands:
+npm install ...
 node app.js
 npm i eslint -D // D for development
 npm run lint -- --init // after -- commands are passed to service
-npm install nodemon
 
-
+## To launch and app:
 npm start
 mongod
 
-
-for testing:
+## For testing:
 npm install -D mocha should sinon
 npm install supertest -D
+
+## To start a project:
+npm init
