@@ -8,5 +8,12 @@ node app.js
 npm i eslint -D // D for development
 npm run lint -- --init // after -- commands are passed to service
 npm install nodemon
-npm start
 
+
+npm start
+mongod
+
+
+for testing:
+npm install -D mocha should sinon
+npm install supertest -D
