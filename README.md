@@ -5,4 +5,4 @@ To run type ```npm start``` and ```mongod``` on two seperate terminal sessions t
 
 Go to localhost:4000/api/books to see the API.
 
-Have used: Node.js, Express, MongoDB, Nodemon, Body-parser, Eslint, Mocha, Should, Sinon, Supertest.
+Have used: Node.js, Express, MongoDB, Nodemon, Body-parser, Eslint, Mocha, Should, Sinon, Supertest, Postman.
